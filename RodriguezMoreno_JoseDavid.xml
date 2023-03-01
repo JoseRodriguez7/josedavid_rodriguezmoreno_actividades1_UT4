@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<equipos_de_la_liga>
+      <jugador posicion="centrocampista">
+         <nombre>Pedri</nombre>
+         <nombre_equipo>FC Barcelona</nombre_equipo>
+         <entrenador>Xavi Hernández</entrenador>
+      </jugador>
+      <jugador posicion="delantero">
+         <nombre>Gerard Moreno</nombre>
+         <nombre_equipo>Villareal</nombre_equipo>
+         <entrenador>Quique Setién</entrenador>
+      </jugador>
+      <jugador posicion="centrocampista">
+         <nombre>Koke</nombre>
+         <nombre_equipo>Atletico de Madrid</nombre_equipo>
+         <entrenador>Diego Simeone</entrenador>
+      </jugador>
+      <jugador posicion="centrocampista">
+         <nombre>Lucas Ocampos</nombre>
+         <nombre_equipo>Sevilla</nombre_equipo>
+         <entrenador>Jorge Sampaoli</entrenador>
+      </jugador>
+      <jugador posicion="portero">
+         <nombre>Thibaut Courtois</nombre>
+         <nombre_equipo>Real Madrid</nombre_equipo>
+         <entrenador>Carlo Ancelotti</entrenador>
+      </jugador>
+</equipos_de_la_liga>
